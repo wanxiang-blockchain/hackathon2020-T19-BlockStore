@@ -1,6 +1,7 @@
 # hackathon2020-T19-BlockStore
 
-We rock with the consumption。
+We rock with the consumption
+
 BlockStore is a store build on blockchain selling dope vintage.
 We created product a shareholder role to balance the risk of the store owner.
 
@@ -9,7 +10,7 @@ We created product a shareholder role to balance the risk of the store owner.
 # Tech Stack
 we build a DApp base on ETH, Truffle, Drizzle, React.
 
-Feature:
+### Feature:
 1. Offer the share of the vintage product.
 2. Buy in share from the market.
 
