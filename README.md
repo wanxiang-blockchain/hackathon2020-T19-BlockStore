@@ -2,7 +2,7 @@
 
 We rock with the consumption
 
-BlockStore is a store build on blockchain selling dope vintage.
+BlockStore is a store built on blockchain selling dope vintage.
 We created product a shareholder role to balance the risk of the store owner.
 
 消費の究極の意味は、より充実した人生を送る方法です。 より虚栄心のある消費習慣を放棄し、消費する適切な方法を選択します。
